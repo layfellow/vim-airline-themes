@@ -98,6 +98,7 @@ Currently this repository contains the following themes:
     * base16_default
     * base16_default_dark
     * base16_default_light
+    * base16_desertbloom
     * base16_dracula
     * base16_edge_dark
     * base16_edge_light
