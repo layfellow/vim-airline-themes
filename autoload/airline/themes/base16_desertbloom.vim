@@ -18,7 +18,7 @@ let s:gui0D = "#516aec"
 let s:gui0E = "#7b59c0"
 let s:gui0F = "#cc33cc"
 
-let s:cterm00 = 0
+let s:cterm00 = 255
 let s:cterm01 = 255
 let s:cterm02 = 59
 let s:cterm03 = 96
